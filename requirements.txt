@@ -8,7 +8,8 @@ seaborn
 wordcloud
 python-pptx
 python-docx
-faiss-cpu==1.7.4
+faiss-cpu
 pytesseract
 Pillow
+
 python-dotenv
