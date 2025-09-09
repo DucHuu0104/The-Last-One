@@ -11,5 +11,5 @@ python-docx
 faiss-cpu
 pytesseract
 Pillow
-
 python-dotenv
+
