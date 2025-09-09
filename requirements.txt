@@ -1,0 +1,14 @@
+streamlit
+langchain_community
+langchain_google_genai
+tempfile
+os
+google.generativeai
+io
+matplotlib
+collections
+seaborn
+wordcloud
+pptx
+dotenv
+docx 
