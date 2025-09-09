@@ -5,6 +5,6 @@ google-generativeai
 matplotlib
 seaborn
 wordcloud
-python-pptxpython-dotenv
+python-pptx
 python-docx
 faiss-cpu
