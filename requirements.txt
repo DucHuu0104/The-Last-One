@@ -8,3 +8,4 @@ wordcloud
 python-pptx
 python-docx
 faiss-cpu
+pytesseract
