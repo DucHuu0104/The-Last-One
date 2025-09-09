@@ -1,0 +1,14 @@
+streamlit
+pypdf>=3.12.0
+langchain-community
+langchain-google-genai
+google-generativeai
+matplotlib
+seaborn
+wordcloud
+python-pptx
+python-docx
+faiss-cpu==1.7.4
+pytesseract
+Pillow
+python-dotenv
